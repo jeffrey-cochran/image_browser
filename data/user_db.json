@@ -1,0 +1,14 @@
+{
+    "1": {
+        "user_name": "bdecost", 
+        "first_name": "Brian", 
+        "last_name": "DeCost", 
+        "email": "bdecost@andrew.cmu.edu" 
+    }, 
+    "2": {
+        "user_name": "mhecht", 
+        "first_name": "Matthew", 
+        "last_name": "Hecht", 
+        "email": "mhecht@andrew.cmu.edu" 
+    }
+}
