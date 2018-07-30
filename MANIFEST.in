@@ -1,5 +1,4 @@
-include data/micrographs/*
-include data/micro_db.json
-include data/sample_db.json
-include data/user_db.json
-include __version__
+include metallogrpahy-data/data/micrographs/*
+include metallogrpahy-data/data/micro_db.json
+include metallogrpahy-data/data/sample_db.json
+include metallogrpahy-data/data/user_db.json
