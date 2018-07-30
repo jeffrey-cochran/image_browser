@@ -10,4 +10,5 @@ setup(
     author='Jeff Cochran',
     author_email='jcochran@equityeng.com',
     packages=find_packages(),
+    include_package_data=True
 )
