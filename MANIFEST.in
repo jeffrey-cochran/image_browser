@@ -1,4 +1,1 @@
-include metallography-data/data/micrographs/*
-include metallography-data/data/micro_db.json
-include metallography-data/data/sample_db.json
-include metallography-data/data/user_db.json
+recursive-include metallography-data/data/ *
