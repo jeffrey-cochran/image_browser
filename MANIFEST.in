@@ -1,0 +1,5 @@
+include data/micrographs/*
+include data/micro_db.json
+include data/sample_db.json
+include data/user_db.json
+include __version__
