@@ -1,4 +1,4 @@
-include metallogrpahy-data/data/micrographs/*
-include metallogrpahy-data/data/micro_db.json
-include metallogrpahy-data/data/sample_db.json
-include metallogrpahy-data/data/user_db.json
+include metallography-data/data/micrographs/*
+include metallography-data/data/micro_db.json
+include metallography-data/data/sample_db.json
+include metallography-data/data/user_db.json
